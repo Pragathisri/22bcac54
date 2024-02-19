@@ -1,0 +1,23 @@
+
+acer@H110T-S2665956 MINGW64 /d/22BCAC54/22bcac54 (float)
+$ git config --global user.name "Pragathisri"
+
+acer@H110T-S2665956 MINGW64 /d/22BCAC54/22bcac54 (float)
+$ git congig --global user.email"spragathi488@gmail.com"
+git: 'congig' is not a git command. See 'git --help'.
+
+The most similar command is
+        config
+
+acer@H110T-S2665956 MINGW64 /d/22BCAC54/22bcac54 (float)
+$ git config --global user.email"spragathi488@gmail.com"
+
+acer@H110T-S2665956 MINGW64 /d/22BCAC54/22bcac54 (float)
+$ git push origin float
+remote: Permission to Pragathisri/22bcac54.git denied to talk2karthik.
+fatal: unable to access 'https://github.com/Pragathisri/22bcac54.git/': The requested URL returned error: 403
+
+acer@H110T-S2665956 MINGW64 /d/22BCAC54/22bcac54 (float)
+$
+
+
